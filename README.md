@@ -1,1 +1,1 @@
-# Pomodoro-Timer---A-Google-Chrome-Extension
+# Pomodoro-Timer-A-Google-Chrome-Extension
